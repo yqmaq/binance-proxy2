@@ -1,2 +1,2 @@
-# binance-proxy2
+# binance-pro
 BN
